@@ -104,7 +104,7 @@ main  h1{
     font-family: var(--fonte-android);
     font-size: 1.8em;
     font-weight: normal;
-    min-height: 150px;
+    min-height: 100px;
 }
 
 main h2{
