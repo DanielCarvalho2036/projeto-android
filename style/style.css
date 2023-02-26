@@ -48,6 +48,7 @@ header > h1{
     font-family: var(--fonte-destaque);
     margin-bottom: 20px;
     font-weight: normal;
+    min-height: 150px;
     font-size: 3em;
     text-shadow: 1px 2px 0px rgba(0, 0, 0, 0.479);
 }
@@ -103,6 +104,7 @@ main  h1{
     font-family: var(--fonte-android);
     font-size: 1.8em;
     font-weight: normal;
+    min-height: 150px;
 }
 
 main h2{
