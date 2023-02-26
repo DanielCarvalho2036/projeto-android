@@ -48,7 +48,6 @@ header > h1{
     font-family: var(--fonte-destaque);
     margin-bottom: 20px;
     font-weight: normal;
-    min-height: 150px;
     font-size: 3em;
     text-shadow: 1px 2px 0px rgba(0, 0, 0, 0.479);
 }
@@ -61,7 +60,7 @@ header > p{
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 1px 2px 0px rgba(0, 0, 0, 0.479);
 
 }
@@ -70,6 +69,7 @@ nav{
     background-color: var(--cor5);
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.384);
+
 }
 
 nav > a{
@@ -104,7 +104,6 @@ main  h1{
     font-family: var(--fonte-android);
     font-size: 1.8em;
     font-weight: normal;
-    min-height: 100px;
 }
 
 main h2{
